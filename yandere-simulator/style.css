@@ -1,0 +1,64 @@
+.Obizana{
+    text-align: center;
+    color: pink;
+}
+.tvari{
+    text-align: center;
+}
+img{
+    width: 100%;
+}
+.Pizdec {
+    text-align: center;
+    color: rgb(227, 227, 120);
+}
+.Zopa {
+     text-align: center;
+    color: rgb(111, 160, 240);
+}
+.img-bottom{
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+body{
+    overflow-x: hidden;
+}
+.bellota-light {
+  font-family: "Bellota", system-ui;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.bellota-regular {
+  font-family: "Bellota", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.bellota-bold {
+  font-family: "Bellota", system-ui;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.bellota-light-italic {
+  font-family: "Bellota", system-ui;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.bellota-regular-italic {
+  font-family: "Bellota", system-ui;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.bellota-bold-italic {
+  font-family: "Bellota", system-ui;
+  font-weight: 700;
+  font-style: italic;
+}
+body{
+    text-align: center;
+}
